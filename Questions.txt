@@ -1,0 +1,948 @@
+Javascript
+
+
+call/apply bind 
+Es6 functions
+rest operators / spread operators
+pllyfills 
+closures
+
+c#
+
+what is dynamic and var
+
+interface and abstract class(scenario base in depth)
+
+version of c# and .Net
+
+Why interface is used in C#
+
+oops
+
+solid he asked specially Liskav 
+
+design Pattern repository
+
+
+.Net
+
+
+what are filters and return type in asp
+
+page hooks
+
+Razor pages and engine 
+
+authentication especially JWT
+
+
+Angular
+
+
+One flow of repository pattern from angular to .net step by step with JWT authentication
+
+shared component
+
+shared modules
+
+interceptor
+
+observables 
+
+promises
+
+how can we call observables without subscription?
+
+services in angular?
+
+how to pass data from one component to another if there is no relation between them?
+
+pass data from parent to child and vice versa?
+
+Events in angular
+
+data bindings?
+
+form binding ? example employee form binding to template?
+
+injections in angular?
+
+
+SQL.
+
+Joins
+
+store procedures 
+
+functions
+
+how can we call store procedure in .net?
+
+Composite and primary key?
+
+index? Types of index?
+
+
+# Angular
+
+1. Difference between constructor and ngOnInit()?
+
+2. Authorization and authentication concept, access token, bearer token, refresh token?
+
+3. Design patterns?
+
+4. Data binding in Angular?
+
+5. Angular material used in any project?
+
+6. Observable and promise?
+
+7. Why we use observable?
+
+8. How you configured google map in angular?
+
+9. Html5QRCodeScanner implementation?
+
+10. Explain last project?
+
+11. What technology used in projects?
+
+12. Logout automatically when page expired after 30minutes, How?
+
+
+
+
+
+What are the main pillars of OOPs
+
+ 
+
+Array program
+
+ 
+
+Show count of duplicate characters from string
+
+Palindrome program
+
+Write a program to add an array N number of time and return that array? Input Array: {10, 20, 30, 40} - CopyNumbers: 2 Output Array: {10, 20, 30, 40, 10, 20, 30, 40}
+
+ 
+
+Method overloading & method overriding
+
+ 
+
+Ref type & value type
+
+ 
+
+Difference between abstract and Interface with real time Example
+
+ 
+
+Constructor & types
+
+ 
+
+Destructor
+
+ 
+
+What is assembly, manifest, namespace, dll
+
+ 
+
+Async & await
+
+ 
+
+Task parallel programming
+
+ 
+
+Sealed class
+
+ 
+
+Can you write read only and const example
+
+ 
+
+Briefly explain garbage collection
+
+ 
+
+Difference between var and dynamic
+
+ 
+
+Delegate & events
+
+ 
+
+Exception handling
+
+ 
+
+ 
+
+ 
+
+Web.Config
+
+How do you access key values in code
+
+ 
+
+ 
+
+What are the Unit Testing ways to unit test project
+
+ 
+
+What is Moq
+
+ 
+
+How do you unit test any nested private methods
+
+ 
+
+What scenario will you test in UnitTesting
+
+ 
+
+What is code coverage
+
+ 
+
+ 
+
+Deployment
+
+ 
+
+What is debug vs release mode
+
+What are the steps for hosting web application
+
+ 
+
+ 
+
+Asp.NET
+
+ 
+
+What Controls / Types of validation
+
+ 
+
+Asp.net page life cycle
+
+ 
+
+State management techniques
+
+ 
+
+Master page
+
+ 
+
+Partial view
+
+ 
+
+Asp.net vs MVC .net different ion
+
+ 
+
+Ajax how we pass data to save form pages
+
+ 
+
+ 
+
+Design Pattern
+
+ 
+
+What are the design patterns we have
+
+ 
+
+Which design patterns have you used in your applications.
+
+ 
+
+what is inversion control
+
+ 
+
+Dependency Injection
+
+ 
+
+What is SOLID Principles
+
+ 
+
+What is MVC design pattern/ n tier architecture
+
+ 
+
+ 
+
+Ado .Net
+
+ 
+
+Data set, data reader, data adapter
+
+ 
+
+Grid view
+
+ 
+
+ 
+
+MVC.NET
+
+ 
+
+Could you please explain your project architecture & database connectivity
+
+ 
+
+Page life cycle of asp.net MVC
+
+ 
+
+Routing
+
+ 
+
+What are the ways we pass session values in controller to controller & view
+
+ 
+
+Action filters
+
+ 
+
+What return types we have in mvc
+
+ 
+
+What is razor page
+
+ 
+
+ 
+
+.NET Core
+
+ 
+
+How you differentiate .NET Core vs .NET app
+
+ 
+
+Why .NET core could you explain features
+
+ 
+
+Advantage of .net core over .net
+
+ 
+
+What is razor page
+
+ 
+
+What is middle wear
+
+ 
+
+What is JWT token
+
+ 
+
+What is bearer token
+
+dependency injection
+
+ 
+
+ 
+
+ 
+
+Web API
+
+ 
+
+Authentication & authorization
+
+ 
+
+ 
+
+What are the http verbs we have in api
+
+ 
+
+Put vs patch differences
+
+ 
+
+What are the debugging techniques we use
+
+ 
+
+http response codes meaning ex : 500, 404, 400
+
+ 
+
+Scenario - 1Lacks + apis on same page got stuck few of them how could you identify
+
+ 
+
+Scenario -
+
+ 
+
+ 
+
+SQL
+
+ 
+
+Explain indexing
+
+ 
+
+What are the types of joins we have
+
+ 
+
+What is CTE, could you write two examples
+
+ 
+
+How we write DDL, DML statements
+
+ 
+
+TempData vs DempTable
+
+ 
+
+Truncate vs delete
+
+ 
+
+What is stored proc vs functions differences
+
+ 
+
+Difference between views and triggers
+
+dence rank
+
+ 
+
+ 
+
+Query-
+
+ 
+
+SQL query to get 4th Highest Salary.
+
+ 
+
+Can you retrieve emp list those salary >5L annually where Emp & EmpSal table should have monthly SALARY column only
+
+ 
+
+ 
+
+ANGULAR
+
+ 
+
+How much you Rate yourself on Angular out of 10
+
+ 
+
+What is single page application
+
+ 
+
+Page life cycle of angular
+
+ 
+
+Latest version of angular
+
+ 
+
+Observables & Promises
+
+ 
+
+Lazy loading, Typescript examples used in project
+
+ 
+
+ 
+
+dependency injection
+
+attribute & types
+
+differnece ngonit & constructor
+
+Pipe & types
+
+how to transfer data from on component to another component
+
+authguard & its types
+
+interceptor
+
+
+ 
+
+Vulnerability -  Previous Role -> Most common vulnerability?, Https, SHA 256, SHA 512
+
+ 
+
+ 
+
+UI
+
+ 
+
+Div & span difference
+
+ 
+
+What your understanding on responsive UI
+
+ 
+
+How do you handle browser wise responsive example button click
+
+ 
+
+How do you handle performance issue
+
+ 
+
+How will you trace UI side issues
+
+ 
+
+ 
+
+jQuery
+
+ 
+
+What are the selectors we have in jquery
+
+ 
+
+What is DOM
+
+ 
+
+== & === operator differences
+
+ 
+
+ 
+
+JavaScript
+
+ 
+
+Can you write validation of client side for email id using JavaScript
+
+ 
+
+ 
+
+Analytical questions
+
+ 
+
+ 
+
+Bookmyshow seats example
+
+ 
+
+Google login - google drive, gmap session how it working from backend
+
+ 
+
+IRCTC ticket booking system at backend what your understanding while implementing
+
+ 
+
+Calendar control with apoointment highlighter - booked, available, few seat remaining
+
+ 
+
+ 
+
+Have you worked on payment gateway
+
+ 
+
+ 
+
+ 
+
+ 
+
+UI Developer Interview
+
+ 
+
+ 
+
+Div & span difference
+
+ 
+
+What is the difference between attribute and property?
+
+ 
+
+ 
+
+From <https://www.interviewbit.com/front-end-developer-interview-questions/>
+
+ 
+
+ 
+
+ 
+
+What your understanding on responsive UI
+
+ 
+
+How do you handle browser wise responsive example button click
+
+ 
+
+How do you handle performance issue
+
+ 
+
+How will you trace UI side issues
+
+ 
+
+Why do we utilize the “use strict”; statement?
+
+ 
+
+ 
+
+From <https://www.interviewbit.com/front-end-developer-interview-questions/>
+
+ 
+
+ 
+
+ 
+
+ 
+
+How are JavaScript and jQuery different?
+
+ 
+
+What is Cross-Site Scripting (XSS)?
+
+ 
+
+What does SOLID stand for?
+
+ 
+
+What is a grid system in CSS?
+
+ 
+
+State the elements of the CSS Box Model.
+
+ 
+
+ 
+
+What is MySQL?
+
+ 
+
+What is ‘Version Control System’?
+
+ 
+
+What is React JS?
+
+ 
+
+ 
+
+How browsers render the UI?
+
+ 
+
+ 
+
+Javascript
+
+ 
+
+How do you create an array in JavaScript?
+
+ 
+
+What is the ‘this’ keyword in JavaScript?
+
+ 
+
+What is Callback in JavaScript?
+
+ 
+
+How would you create a cookie?
+
+ 
+
+What’s the difference between let and var?
+
+ 
+
+Undefined and Null in JavaScript?
+
+ 
+
+What are the arrow functions in JavaScript?
+
+ 
+
+ 
+
+ 
+
+Jquery
+
+ 
+
+What are the methods used to provide effects?
+
+ 
+
+What are the basic selectors in jQuery?
+
+ 
+
+Can we add more than one ‘document.ready’ function in a page?
+
+ 
+
+What are the four parameters used for jQuery Ajax method?
+
+ 
+
+What are the advantages of jQuery?
+
+ 
+
+What is called chaining?
+
+ 
+
+ 
+
+Bootstrap
+
+ 
+
+ 
+
+What is a Bootstrap Container, and how does it work?
+
+ 
+
+What is a lead?
+
+ 
+
+Lead adds some emphasis to a paragraph. The .lead class is used to achieve this and it makes the font larger, taller, and lighter in weight.
+
+ 
+
+How can one create an alert in Bootstrap?
+
+ 
+
+How would you implement a carousel in bootstrap?
+
+ 
+
+What is the media object in Bootstrap and what are their types?
+
+ 
+
+What are glyphicons?
+
+ 
+
+How is tooltip different from popover? 
+
+ 
+Calendrer control
+
+ 
+
+Responsive UI on browser
+
+ 
+
+Refactor/Clean up code
+
+ 
+
+ 
+
+ 
+
+analytical thinking w.r.t scenario
+
+ 
+
+ 
+
+
+
+agile methodology
+
+ 
+
+ 
+
+[5/2 9:28 PM] 
+
+ 
+
+burn up chart
+
+ 
+
+burn down
+
+ 
+
+zero sprint
+
+ 
+
+retrospective
+
+ 
+
+[Thursday 12:32 PM] PramilaG Parkale
+
+Microsoft Interview Question                                                                                                                                                    1) Write a program to find all the possible substrings from a string without using Substring method.
+
+2) Difference between HttpPost and HttpPut
+
+3) What is Rollback in sql.
+
+4) What is attribute based routing in MVC?
+
+5) What is Entity Framework?
+
+6) What is View in sql why we are using it.
+
+7) Why interface is used in C#?
+
+8) Main pillars of OOPs
+
+9) Return types of web api.
+
+10) What is Serialization and Deserialzation?
+
+11) Async & Await.
+
+12) SQL Indexes Clustered and Non clustered Index
+
+13) Difference between Hashtable and Dictionary.
+
+14) SQL performance tuning
+
+15) What is token authentication.
+
+16) How can we add dependency injection in web api.
+
+ 
+
+17) Is the below code correct
+
+   interface ICustomer
+
+{
+
+      void Print();
+
+}
+
+class A
+
+{
+
+void Print(){}
+
+}
+
+class Customer : ICustomer, A
+
+{
+
+}
+
+ 
+
+18) Which method will be called from the below if I pass 10.0,10.0 as input
+
+Print(double a, double b)
+
+Print(int a, int b)
+
+Print(float a, float b)
+
+Print(decimal a, decimal b)
+
+ 
+
+19)What will be the output for below code
+
+int [] arr = new int[0];
+
+arr[1];
+
+ 
+
+20)Write a query to change the Gender from Male to Female and ViceVersa in the Employee table
